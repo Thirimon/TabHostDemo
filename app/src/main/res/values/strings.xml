@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabHostDemo</string>
+    <string name="presented_by">Tutorial By Thiri</string>
+    <string name="home">Home Page</string>
+    <string name="no_image">No Image</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="textswitcher">TextSwitcher</string>
+    <string name="ImageSwitcher">ImageSwitcher</string>
+</resources>
